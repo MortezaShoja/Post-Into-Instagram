@@ -1,0 +1,82 @@
+F:\VAIO-PC\Programming\Viber Messaging\bin\Release\Viber Bulk Message Sender.exe
+F:\VAIO-PC\Programming\Viber Messaging\bin\Release\Viber Bulk Message Sender.pdb
+F:\VAIO-PC\Programming\Viber Messaging\bin\Release\Viber Bulk Message Sender.xml
+F:\VAIO-PC\Programming\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Form1.resources
+F:\VAIO-PC\Programming\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Main.resources
+F:\VAIO-PC\Programming\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Resources.resources
+F:\VAIO-PC\Programming\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Viber.resources
+F:\VAIO-PC\Programming\Viber Messaging\obj\Release\Viber Bulk Message Sender.exe
+F:\VAIO-PC\Programming\Viber Messaging\obj\Release\Viber Bulk Message Sender.xml
+F:\VAIO-PC\Programming\Viber Messaging\obj\Release\Viber Bulk Message Sender.pdb
+F:\VAIO-PC\Programming\Viber Messaging\obj\Release\Viber Bulk Message Sender.vbproj.GenerateResource.Cache
+G:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\bin\Release\Viber Bulk Message Sender.exe
+G:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\bin\Release\Viber Bulk Message Sender.pdb
+G:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\bin\Release\Viber Bulk Message Sender.xml
+G:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Form1.resources
+G:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Main.resources
+G:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Resources.resources
+G:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Viber.resources
+G:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber Bulk Message Sender.vbproj.GenerateResource.Cache
+G:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber Bulk Message Sender.exe
+G:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber Bulk Message Sender.xml
+G:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber Bulk Message Sender.pdb
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\bin\Release\Viber Bulk Message Sender.exe
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\bin\Release\Viber Bulk Message Sender.pdb
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\bin\Release\Viber Bulk Message Sender.xml
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Form1.resources
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Main.resources
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Resources.resources
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber_Bulk_Message_Sender.Viber.resources
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber Bulk Message Sender.vbproj.GenerateResource.Cache
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber Bulk Message Sender.exe
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber Bulk Message Sender.xml
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging\obj\Release\Viber Bulk Message Sender.pdb
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber Bulk Message Sender.exe
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber Bulk Message Sender.xml
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber Bulk Message Sender.pdb
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\bin\Release\Viber Bulk Message Sender.exe
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\bin\Release\Viber Bulk Message Sender.pdb
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\bin\Release\Viber Bulk Message Sender.xml
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\ResolveAssemblyReference.cache
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber_Bulk_Message_Sender.Form1.resources
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber_Bulk_Message_Sender.Main.resources
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber_Bulk_Message_Sender.Resources.resources
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber_Bulk_Message_Sender.Viber.resources
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\ResGen.read.1.tlog
+H:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\ResGen.write.1.tlog
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber Bulk Message Sender.exe
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber Bulk Message Sender.xml
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber Bulk Message Sender.pdb
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\bin\Release\Viber Bulk Message Sender.exe
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\bin\Release\Viber Bulk Message Sender.pdb
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\bin\Release\Viber Bulk Message Sender.xml
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\ResolveAssemblyReference.cache
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber_Bulk_Message_Sender.Form1.resources
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber_Bulk_Message_Sender.Main.resources
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber_Bulk_Message_Sender.Resources.resources
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\Viber_Bulk_Message_Sender.Viber.resources
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\GenerateResource-ResGen.read.1.tlog
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\ResGen.read.1.tlog
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\GenerateResource-ResGen.write.1.tlog
+J:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-32Bit\obj\Release\ResGen.write.1.tlog
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\obj\Release\Viber Bulk Message Sender.exe
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\obj\Release\Viber Bulk Message Sender.xml
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\obj\Release\Viber Bulk Message Sender.pdb
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\bin\Release\Viber Bulk Message Sender.exe
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\bin\Release\Viber Bulk Message Sender.pdb
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\bin\Release\Viber Bulk Message Sender.xml
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\obj\Release\Viber_Bulk_Message_Sender.Main.resources
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\obj\Release\Viber_Bulk_Message_Sender.Resources.resources
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\obj\Release\Viber_Bulk_Message_Sender.Viber.resources
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\obj\Release\Viber_Bulk_Message_Sender.frmSamplePointer.resources
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\obj\Release\Viber_Bulk_Message_Sender.frmTest.resources
+F:\VAIO-PC\Programming\Viber Bulk\Viber Messaging-New\obj\Release\Viber Bulk Message Sender.vbproj.GenerateResource.Cache
+C:\Programing\Reza\Instagram\obj\Release\Viber Bulk Message Sender.exe
+C:\Programing\Reza\Instagram\obj\Release\Viber Bulk Message Sender.xml
+C:\Programing\Reza\Instagram\obj\Release\Viber Bulk Message Sender.pdb
+C:\Programing\Reza\Instagram\bin\Release\Viber Bulk Message Sender.exe
+C:\Programing\Reza\Instagram\bin\Release\Viber Bulk Message Sender.pdb
+C:\Programing\Reza\Instagram\bin\Release\Viber Bulk Message Sender.xml
+C:\Programing\Reza\Instagram\obj\Release\Viber_Bulk_Message_Sender.Resources.resources
+C:\Programing\Reza\Instagram\obj\Release\Viber Bulk Message Sender.vbproj.GenerateResource.Cache
+C:\Programing\Reza\Instagram\obj\Release\Viber_Bulk_Message_Sender.Instagram.resources

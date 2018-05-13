@@ -1,0 +1,7 @@
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\bin\x86\Release\Mouse and keyboard interaction in VBNET.exe
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Release\Mouse_and_keyboard_interaction_in_VBNET.Form1.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Release\Mouse_and_keyboard_interaction_in_VBNET.Main.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Release\Mouse_and_keyboard_interaction_in_VBNET.Resources.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Release\Mouse_and_keyboard_interaction_in_VBNET.Viber.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Release\Mouse and keyboard interaction in VBNET.vbproj.GenerateResource.Cache
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Release\Mouse and keyboard interaction in VBNET.exe

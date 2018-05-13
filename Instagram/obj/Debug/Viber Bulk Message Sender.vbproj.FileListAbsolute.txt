@@ -1,0 +1,24 @@
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\Debug\Viber Bulk Message Sender.vbproj.GenerateResource.Cache
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\bin\Debug\Viber Bulk Message Sender.exe
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\bin\Debug\Viber Bulk Message Sender.pdb
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\bin\Debug\Viber Bulk Message Sender.xml
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\Debug\Viber_Bulk_Message_Sender.Form1.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\Debug\Viber_Bulk_Message_Sender.Main.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\Debug\Viber_Bulk_Message_Sender.Resources.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\Debug\Viber_Bulk_Message_Sender.Viber.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\Debug\Viber Bulk Message Sender.exe
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\Debug\Viber Bulk Message Sender.xml
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\Debug\Viber Bulk Message Sender.pdb
+F:\VAIO-PC\Programming\Viber Messaging\bin\Debug\Viber Bulk Message Sender.exe
+F:\VAIO-PC\Programming\Viber Messaging\bin\Debug\Viber Bulk Message Sender.pdb
+F:\VAIO-PC\Programming\Viber Messaging\bin\Debug\Viber Bulk Message Sender.xml
+F:\VAIO-PC\Programming\Viber Messaging\obj\Debug\ResolveAssemblyReference.cache
+F:\VAIO-PC\Programming\Viber Messaging\obj\Debug\Viber_Bulk_Message_Sender.Form1.resources
+F:\VAIO-PC\Programming\Viber Messaging\obj\Debug\Viber_Bulk_Message_Sender.Main.resources
+F:\VAIO-PC\Programming\Viber Messaging\obj\Debug\Viber_Bulk_Message_Sender.Resources.resources
+F:\VAIO-PC\Programming\Viber Messaging\obj\Debug\Viber_Bulk_Message_Sender.Viber.resources
+F:\VAIO-PC\Programming\Viber Messaging\obj\Debug\ResGen.read.1.tlog
+F:\VAIO-PC\Programming\Viber Messaging\obj\Debug\ResGen.write.1.tlog
+F:\VAIO-PC\Programming\Viber Messaging\obj\Debug\Viber Bulk Message Sender.exe
+F:\VAIO-PC\Programming\Viber Messaging\obj\Debug\Viber Bulk Message Sender.xml
+F:\VAIO-PC\Programming\Viber Messaging\obj\Debug\Viber Bulk Message Sender.pdb

@@ -1,0 +1,15 @@
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\bin\x86\Debug\Viber Bulk Message Sender.exe
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\bin\x86\Debug\Viber Bulk Message Sender.pdb
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Viber_Bulk_Message_Sender.Form1.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Viber_Bulk_Message_Sender.Main.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Viber_Bulk_Message_Sender.Resources.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Viber_Bulk_Message_Sender.Viber.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Viber Bulk Message Sender.vbproj.GenerateResource.Cache
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Viber Bulk Message Sender.exe
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Viber Bulk Message Sender.pdb
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse and keyboard interaction in VBNET.exe
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse and keyboard interaction in VBNET.pdb
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse_and_keyboard_interaction_in_VBNET.Form1.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse_and_keyboard_interaction_in_VBNET.Main.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse_and_keyboard_interaction_in_VBNET.Resources.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse_and_keyboard_interaction_in_VBNET.Viber.resources

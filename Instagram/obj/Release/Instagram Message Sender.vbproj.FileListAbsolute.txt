@@ -1,0 +1,39 @@
+C:\Programing\Reza\Instagram\bin\Release\Instagram Message Sender.exe
+C:\Programing\Reza\Instagram\bin\Release\Instagram Message Sender.pdb
+C:\Programing\Reza\Instagram\bin\Release\Instagram Message Sender.xml
+C:\Programing\Reza\Instagram\obj\Release\Instagram_Message_Sender.Instagram.resources
+C:\Programing\Reza\Instagram\obj\Release\Instagram_Message_Sender.Resources.resources
+C:\Programing\Reza\Instagram\obj\Release\Instagram Message Sender.vbproj.GenerateResource.Cache
+C:\Programing\Reza\Instagram\obj\Release\Instagram Message Sender.exe
+C:\Programing\Reza\Instagram\obj\Release\Instagram Message Sender.xml
+C:\Programing\Reza\Instagram\obj\Release\Instagram Message Sender.pdb
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\obj\Release\Instagram Message Sender.exe
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\obj\Release\Instagram Message Sender.xml
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\obj\Release\Instagram Message Sender.pdb
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\bin\Release\Instagram Message Sender.exe
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\bin\Release\Instagram Message Sender.pdb
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\bin\Release\Instagram Message Sender.xml
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\obj\Release\Instagram_Message_Sender.Instagram.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\obj\Release\Instagram_Message_Sender.Resources.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\obj\Release\Instagram Message Sender.vbproj.GenerateResource.Cache
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\bin\Release\Instagram Message Sender.exe
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\bin\Release\Instagram Message Sender.pdb
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\bin\Release\Instagram Message Sender.xml
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Release\Instagram_Message_Sender.Instagram.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Release\Instagram_Message_Sender.Resources.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Release\Instagram Message Sender.vbproj.GenerateResource.Cache
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Release\Instagram Message Sender.exe
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Release\Instagram Message Sender.xml
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Release\Instagram Message Sender.pdb
+C:\Users\Administrator\OneDrive\Programming\Reza\Instagram\Instagram\obj\Release\Instagram Message Sender.exe
+C:\Users\Administrator\OneDrive\Programming\Reza\Instagram\Instagram\obj\Release\Instagram Message Sender.xml
+C:\Users\Administrator\OneDrive\Programming\Reza\Instagram\Instagram\obj\Release\Instagram Message Sender.pdb
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram_AutoPost\Instagram\obj\Release\Instagram Message Sender.exe
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram_AutoPost\Instagram\obj\Release\Instagram Message Sender.xml
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram_AutoPost\Instagram\obj\Release\Instagram Message Sender.pdb
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram_AutoPost\Instagram\obj\Release\Instagram_Message_Sender.Instagram.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram_AutoPost\Instagram\obj\Release\Instagram_Message_Sender.Resources.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram_AutoPost\Instagram\obj\Release\Instagram Message Sender.vbproj.GenerateResource.Cache
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram_AutoPost\Instagram\bin\Release\Instagram Message Sender.exe
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram_AutoPost\Instagram\bin\Release\Instagram Message Sender.pdb
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram_AutoPost\Instagram\bin\Release\Instagram Message Sender.xml

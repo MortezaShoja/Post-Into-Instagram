@@ -1,0 +1,9 @@
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\bin\Debug\Instagram Message Sender.exe
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\bin\Debug\Instagram Message Sender.pdb
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\bin\Debug\Instagram Message Sender.xml
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Debug\Instagram_Message_Sender.Instagram.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Debug\Instagram_Message_Sender.Resources.resources
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Debug\Instagram Message Sender.vbproj.GenerateResource.Cache
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Debug\Instagram Message Sender.exe
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Debug\Instagram Message Sender.xml
+C:\Users\Morteza\OneDrive\Programming\Reza\Instagram\Instagram\obj\Debug\Instagram Message Sender.pdb

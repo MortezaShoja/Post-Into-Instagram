@@ -1,0 +1,17 @@
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\bin\x86\Debug\Mouse and keyboard interaction in VBNET.exe
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\bin\x86\Debug\Mouse and keyboard interaction in VBNET.pdb
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse_and_keyboard_interaction_in_VBNET.Form1.resources
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse_and_keyboard_interaction_in_VBNET.Resources.resources
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse and keyboard interaction in VBNET.vbproj.GenerateResource.Cache
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse and keyboard interaction in VBNET.exe
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse and keyboard interaction in VBNET.pdb
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse and keyboard interaction in VBNET.exe
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse and keyboard interaction in VBNET.pdb
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\bin\x86\Debug\Mouse and keyboard interaction in VBNET.exe
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\bin\x86\Debug\Mouse and keyboard interaction in VBNET.pdb
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse_and_keyboard_interaction_in_VBNET.Form1.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse_and_keyboard_interaction_in_VBNET.Resources.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse and keyboard interaction in VBNET.vbproj.GenerateResource.Cache
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse_and_keyboard_interaction_in_VBNET.Viber.resources
+C:\Users\Mory\Downloads\Programing\Mouse_and_keyboard_interaction_in_VBNET\Mouse and keyboard interaction in VBNET\obj\x86\Debug\Mouse_and_keyboard_interaction_in_VBNET.Main.resources
